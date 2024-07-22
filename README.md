@@ -1,1 +1,1 @@
-# a sample student applicatio form 
+# a sample student application form 
